@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Something Cool**
 
-- 🌱 I’m currently learning **BackEnd Development (node.js , momgodb , express.js)**
+- 🌱 I’m currently learning **BackEnd Development (node.js , mongodb , express.js)**
 
 - 👯 I’m looking to collaborate with **other contributors**
 
